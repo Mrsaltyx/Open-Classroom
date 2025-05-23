@@ -1,0 +1,49 @@
+Image 1 :
+Ce graphique montre l'évolution du nombre de ventes et de visites sur un site entre avril 2019 et février 2020. On observe :
+
+Une forte augmentation des visites sur le site (ligne verte), passant d'environ 20 000 à plus de 500 000.
+Une croissance beaucoup plus modérée des ventes (ligne bleue), passant d'environ 5 000 à 30 000.
+L'écart entre les visites et les ventes s'accentue nettement sur la période.
+
+Plus justifier les choix / a changer avec le graphique 1  groupe 1/2/3
+
+Image 2 :
+Ce graphique présente l'évolution du taux de conversion entre avril 2019 et février 2020. On constate : 
+
+Une tendance générale à la baisse du taux de conversion.
+Un pic à environ 0,11 en avril 2019.
+Une diminution constante jusqu'à atteindre environ 0,05 en février 2020.
+
+
+Image 3 :
+Ce nuage de points met en relation le temps passé sur le site (axe x) et le montant du panier (axe y). On observe :
+
+Une corrélation positive : plus le temps passé augmente, plus le montant du panier tend à augmenter.
+Une dispersion importante des points, indiquant une relation non linéaire.
+La majorité des visites durent entre 4 et 10 minutes, avec des paniers moyens entre 30 et 50 euros.
+
+groupe 5/6/7
+
+Image 4 :
+Ce graphique empilé montre l'évolution des ventes par catégorie de produits entre mars 2019 et janvier 2020. On remarque :
+
+Une augmentation globale des ventes sur la période.
+La catégorie "high-tech" (rouge) domine en volume, suivie des biens de consommation (vert) puis de la nourriture (bleu).
+Une croissance particulièrement marquée pour la nourriture et les biens de consommation en fin de période.
+
+groupe 12/14
+
+Image 5 :
+Ce diagramme en boîte présente la distribution du temps passé sur le site par mois, de mars 2019 à février 2020. On observe :
+
+Une tendance à la baisse de la médiane du temps passé sur le site.
+Une augmentation de la dispersion des temps de visite au fil des mois.
+Des valeurs aberrantes (outliers) plus nombreuses vers la fin de la période, indiquant des sessions très longues.
+
+Ces graphiques suggèrent une augmentation du trafic sur le site, mais avec une baisse du taux de conversion et du temps moyen passé par visite. Les ventes augmentent néanmoins, particulièrement dans certaines catégories de produits.
+
+groupe 15/16
+
+Tirer une conclusion de la baisse du chiffre d'affaire 
+
+high tech abandonné au profit de l'alimentaire  
